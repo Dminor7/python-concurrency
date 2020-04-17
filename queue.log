@@ -1,0 +1,168 @@
+INFO:root:START make_thumbnails
+INFO:root:https://dl.dropboxusercontent.com/s/2fu69d8lfesbhru/pexels-photo-48603.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/zch88m6sb8a7bm1/pexels-photo-134392.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/lsr6dxw5m2ep5qt/pexels-photo-135130.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/6xinfm0lcnbirb9/pexels-photo-167300.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/2dp2hli32h9p0y6/pexels-photo-167921.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/fjb1m3grcrceqo2/pexels-photo-173125.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/56u8p4oplagc4bp/pexels-photo-185934.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/2s1x7wz4sdvxssr/pexels-photo-192454.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/1gjphqnllzm10hh/pexels-photo-193038.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/pcjz40c8pxpy057/pexels-photo-193043.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/hokdfk7y8zmwe96/pexels-photo-207962.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/k2tk2co7r18juy7/pexels-photo-247917.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/m4xjekvqk4rksbx/pexels-photo-247932.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/znmswtwhcdbpc10/pexels-photo-265186.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/jgb6n4esquhh4gu/pexels-photo-302899.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/rjuggi2ubc1b3bk/pexels-photo-317156.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/cpaog2nwplilrz9/pexels-photo-317383.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/16x2b6ruk18gji5/pexels-photo-320007.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/xqzqzjkcwl52en0/pexels-photo-322207.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/frclthpd7t8exma/pexels-photo-323503.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/7ixez07vnc3jeyg/pexels-photo-324030.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/1xlgrfy861nyhox/pexels-photo-324655.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/v1b03d940lop05d/pexels-photo-324658.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/ehrm5clkucbhvi4/pexels-photo-325520.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/l7ga4ea98hfl49b/pexels-photo-333529.jpeg put in queue
+INFO:root:https://dl.dropboxusercontent.com/s/rleff9tx000k19j/pexels-photo-341520.jpeg put in queue
+INFO:root:Thread-1 created
+INFO:root:START
+INFO:root:Downloading image pexels-photo-48603.jpeg from https://dl.dropboxusercontent.com/s/2fu69d8lfesbhru/pexels-photo-48603.jpeg
+INFO:root:Thread-2 created
+INFO:root:START
+INFO:root:Downloading image pexels-photo-134392.jpeg from https://dl.dropboxusercontent.com/s/zch88m6sb8a7bm1/pexels-photo-134392.jpeg
+INFO:root:Thread-3 created
+INFO:root:START
+INFO:root:Downloading image pexels-photo-135130.jpeg from https://dl.dropboxusercontent.com/s/lsr6dxw5m2ep5qt/pexels-photo-135130.jpeg
+INFO:root:Thread-4 created
+INFO:root:START
+INFO:root:Thread-5 created
+INFO:root:Downloading image pexels-photo-167300.jpeg from https://dl.dropboxusercontent.com/s/6xinfm0lcnbirb9/pexels-photo-167300.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-167921.jpeg from https://dl.dropboxusercontent.com/s/2dp2hli32h9p0y6/pexels-photo-167921.jpeg
+INFO:root:Thread-6 created
+INFO:root:START
+INFO:root:Downloading image pexels-photo-173125.jpeg from https://dl.dropboxusercontent.com/s/fjb1m3grcrceqo2/pexels-photo-173125.jpeg
+INFO:root:Thread-7 created
+INFO:root:START
+INFO:root:Downloading image pexels-photo-185934.jpeg from https://dl.dropboxusercontent.com/s/56u8p4oplagc4bp/pexels-photo-185934.jpeg
+INFO:root:Thread-8 created
+INFO:root:START
+INFO:root:Downloading image pexels-photo-192454.jpeg from https://dl.dropboxusercontent.com/s/2s1x7wz4sdvxssr/pexels-photo-192454.jpeg
+INFO:root:beginning image resizing
+INFO:root:Downloaded image pexels-photo-185934.jpeg
+INFO:root:START
+INFO:root:resizing pexels-photo-185934.jpeg
+INFO:root:Downloading image pexels-photo-193038.jpeg from https://dl.dropboxusercontent.com/s/1gjphqnllzm10hh/pexels-photo-193038.jpeg
+INFO:root:Downloaded image pexels-photo-134392.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-193043.jpeg from https://dl.dropboxusercontent.com/s/pcjz40c8pxpy057/pexels-photo-193043.jpeg
+INFO:root:Downloaded image pexels-photo-135130.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-207962.jpeg from https://dl.dropboxusercontent.com/s/hokdfk7y8zmwe96/pexels-photo-207962.jpeg
+INFO:root:Downloaded image pexels-photo-167921.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-247917.jpeg from https://dl.dropboxusercontent.com/s/k2tk2co7r18juy7/pexels-photo-247917.jpeg
+INFO:root:Downloaded image pexels-photo-192454.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-247932.jpeg from https://dl.dropboxusercontent.com/s/m4xjekvqk4rksbx/pexels-photo-247932.jpeg
+INFO:root:done resizing pexels-photo-185934.jpeg
+INFO:root:resizing pexels-photo-134392.jpeg
+INFO:root:Downloaded image pexels-photo-48603.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-265186.jpeg from https://dl.dropboxusercontent.com/s/znmswtwhcdbpc10/pexels-photo-265186.jpeg
+INFO:root:Downloaded image pexels-photo-167300.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-302899.jpeg from https://dl.dropboxusercontent.com/s/jgb6n4esquhh4gu/pexels-photo-302899.jpeg
+INFO:root:Downloaded image pexels-photo-173125.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-317156.jpeg from https://dl.dropboxusercontent.com/s/rjuggi2ubc1b3bk/pexels-photo-317156.jpeg
+INFO:root:done resizing pexels-photo-134392.jpeg
+INFO:root:resizing pexels-photo-135130.jpeg
+INFO:root:Downloaded image pexels-photo-207962.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-317383.jpeg from https://dl.dropboxusercontent.com/s/cpaog2nwplilrz9/pexels-photo-317383.jpeg
+INFO:root:done resizing pexels-photo-135130.jpeg
+INFO:root:resizing pexels-photo-167921.jpeg
+INFO:root:Downloaded image pexels-photo-193043.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-320007.jpeg from https://dl.dropboxusercontent.com/s/16x2b6ruk18gji5/pexels-photo-320007.jpeg
+INFO:root:done resizing pexels-photo-167921.jpeg
+INFO:root:resizing pexels-photo-192454.jpeg
+INFO:root:Downloaded image pexels-photo-193038.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-322207.jpeg from https://dl.dropboxusercontent.com/s/xqzqzjkcwl52en0/pexels-photo-322207.jpeg
+INFO:root:done resizing pexels-photo-192454.jpeg
+INFO:root:resizing pexels-photo-48603.jpeg
+INFO:root:Downloaded image pexels-photo-247932.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-323503.jpeg from https://dl.dropboxusercontent.com/s/frclthpd7t8exma/pexels-photo-323503.jpeg
+INFO:root:Downloaded image pexels-photo-302899.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-324030.jpeg from https://dl.dropboxusercontent.com/s/7ixez07vnc3jeyg/pexels-photo-324030.jpeg
+INFO:root:Downloaded image pexels-photo-247917.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-324655.jpeg from https://dl.dropboxusercontent.com/s/1xlgrfy861nyhox/pexels-photo-324655.jpeg
+INFO:root:done resizing pexels-photo-48603.jpeg
+INFO:root:resizing pexels-photo-167300.jpeg
+INFO:root:Downloaded image pexels-photo-265186.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-324658.jpeg from https://dl.dropboxusercontent.com/s/v1b03d940lop05d/pexels-photo-324658.jpeg
+INFO:root:done resizing pexels-photo-167300.jpeg
+INFO:root:resizing pexels-photo-173125.jpeg
+INFO:root:Downloaded image pexels-photo-317156.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-325520.jpeg from https://dl.dropboxusercontent.com/s/ehrm5clkucbhvi4/pexels-photo-325520.jpeg
+INFO:root:done resizing pexels-photo-173125.jpeg
+INFO:root:resizing pexels-photo-207962.jpeg
+INFO:root:done resizing pexels-photo-207962.jpeg
+INFO:root:resizing pexels-photo-193043.jpeg
+INFO:root:Downloaded image pexels-photo-320007.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-333529.jpeg from https://dl.dropboxusercontent.com/s/l7ga4ea98hfl49b/pexels-photo-333529.jpeg
+INFO:root:Downloaded image pexels-photo-317383.jpeg
+INFO:root:START
+INFO:root:Downloading image pexels-photo-341520.jpeg from https://dl.dropboxusercontent.com/s/rleff9tx000k19j/pexels-photo-341520.jpeg
+INFO:root:done resizing pexels-photo-193043.jpeg
+INFO:root:resizing pexels-photo-193038.jpeg
+INFO:root:done resizing pexels-photo-193038.jpeg
+INFO:root:resizing pexels-photo-247932.jpeg
+INFO:root:done resizing pexels-photo-247932.jpeg
+INFO:root:resizing pexels-photo-302899.jpeg
+INFO:root:done resizing pexels-photo-302899.jpeg
+INFO:root:resizing pexels-photo-247917.jpeg
+INFO:root:Downloaded image pexels-photo-324030.jpeg
+INFO:root:Downloaded image pexels-photo-324655.jpeg
+INFO:root:Downloaded image pexels-photo-323503.jpeg
+INFO:root:done resizing pexels-photo-247917.jpeg
+INFO:root:resizing pexels-photo-265186.jpeg
+INFO:root:Downloaded image pexels-photo-324658.jpeg
+INFO:root:Downloaded image pexels-photo-333529.jpeg
+INFO:root:Downloaded image pexels-photo-322207.jpeg
+INFO:root:done resizing pexels-photo-265186.jpeg
+INFO:root:resizing pexels-photo-317156.jpeg
+INFO:root:Downloaded image pexels-photo-325520.jpeg
+INFO:root:done resizing pexels-photo-317156.jpeg
+INFO:root:resizing pexels-photo-320007.jpeg
+INFO:root:done resizing pexels-photo-320007.jpeg
+INFO:root:resizing pexels-photo-317383.jpeg
+INFO:root:Downloaded image pexels-photo-341520.jpeg
+INFO:root:done resizing pexels-photo-317383.jpeg
+INFO:root:resizing pexels-photo-324030.jpeg
+INFO:root:done resizing pexels-photo-324030.jpeg
+INFO:root:resizing pexels-photo-324655.jpeg
+INFO:root:done resizing pexels-photo-324655.jpeg
+INFO:root:resizing pexels-photo-323503.jpeg
+INFO:root:done resizing pexels-photo-323503.jpeg
+INFO:root:resizing pexels-photo-324658.jpeg
+INFO:root:done resizing pexels-photo-324658.jpeg
+INFO:root:resizing pexels-photo-333529.jpeg
+INFO:root:done resizing pexels-photo-333529.jpeg
+INFO:root:resizing pexels-photo-322207.jpeg
+INFO:root:done resizing pexels-photo-322207.jpeg
+INFO:root:resizing pexels-photo-325520.jpeg
+INFO:root:done resizing pexels-photo-325520.jpeg
+INFO:root:resizing pexels-photo-341520.jpeg
+INFO:root:done resizing pexels-photo-341520.jpeg
+INFO:root:created thumbnails in 15.31704499999978 seconds
+INFO:root:END make_thumbnails in 15.486217000001488 seconds

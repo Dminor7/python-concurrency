@@ -1,0 +1,167 @@
+[MainThread, 2020-04-17 09:21:13,228, INFO ] START make_thumbnails
+[MainThread, 2020-04-17 09:21:13,276, INFO ] https://dl.dropboxusercontent.com/s/2fu69d8lfesbhru/pexels-photo-48603.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,277, INFO ] https://dl.dropboxusercontent.com/s/zch88m6sb8a7bm1/pexels-photo-134392.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,278, INFO ] https://dl.dropboxusercontent.com/s/lsr6dxw5m2ep5qt/pexels-photo-135130.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,279, INFO ] https://dl.dropboxusercontent.com/s/6xinfm0lcnbirb9/pexels-photo-167300.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,280, INFO ] https://dl.dropboxusercontent.com/s/2dp2hli32h9p0y6/pexels-photo-167921.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,281, INFO ] https://dl.dropboxusercontent.com/s/fjb1m3grcrceqo2/pexels-photo-173125.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,282, INFO ] https://dl.dropboxusercontent.com/s/56u8p4oplagc4bp/pexels-photo-185934.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,283, INFO ] https://dl.dropboxusercontent.com/s/2s1x7wz4sdvxssr/pexels-photo-192454.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,283, INFO ] https://dl.dropboxusercontent.com/s/1gjphqnllzm10hh/pexels-photo-193038.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,283, INFO ] https://dl.dropboxusercontent.com/s/pcjz40c8pxpy057/pexels-photo-193043.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,284, INFO ] https://dl.dropboxusercontent.com/s/hokdfk7y8zmwe96/pexels-photo-207962.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,285, INFO ] https://dl.dropboxusercontent.com/s/k2tk2co7r18juy7/pexels-photo-247917.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,285, INFO ] https://dl.dropboxusercontent.com/s/m4xjekvqk4rksbx/pexels-photo-247932.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,286, INFO ] https://dl.dropboxusercontent.com/s/znmswtwhcdbpc10/pexels-photo-265186.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,287, INFO ] https://dl.dropboxusercontent.com/s/jgb6n4esquhh4gu/pexels-photo-302899.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,287, INFO ] https://dl.dropboxusercontent.com/s/rjuggi2ubc1b3bk/pexels-photo-317156.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,287, INFO ] https://dl.dropboxusercontent.com/s/cpaog2nwplilrz9/pexels-photo-317383.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,288, INFO ] https://dl.dropboxusercontent.com/s/16x2b6ruk18gji5/pexels-photo-320007.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,289, INFO ] https://dl.dropboxusercontent.com/s/xqzqzjkcwl52en0/pexels-photo-322207.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,289, INFO ] https://dl.dropboxusercontent.com/s/frclthpd7t8exma/pexels-photo-323503.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,289, INFO ] https://dl.dropboxusercontent.com/s/7ixez07vnc3jeyg/pexels-photo-324030.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,291, INFO ] https://dl.dropboxusercontent.com/s/1xlgrfy861nyhox/pexels-photo-324655.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,291, INFO ] https://dl.dropboxusercontent.com/s/v1b03d940lop05d/pexels-photo-324658.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,292, INFO ] https://dl.dropboxusercontent.com/s/ehrm5clkucbhvi4/pexels-photo-325520.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,293, INFO ] https://dl.dropboxusercontent.com/s/l7ga4ea98hfl49b/pexels-photo-333529.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,294, INFO ] https://dl.dropboxusercontent.com/s/rleff9tx000k19j/pexels-photo-341520.jpeg put in queue
+[MainThread, 2020-04-17 09:21:13,294, INFO ] Thread-4 created
+[Thread-4, 2020-04-17 09:21:13,297, INFO ] START
+[Thread-4, 2020-04-17 09:21:13,299, INFO ] Downloading image pexels-photo-48603.jpeg from https://dl.dropboxusercontent.com/s/2fu69d8lfesbhru/pexels-photo-48603.jpeg
+[MainThread, 2020-04-17 09:21:13,306, INFO ] Thread-5 created
+[Thread-5, 2020-04-17 09:21:13,313, INFO ] START
+[Thread-5, 2020-04-17 09:21:13,315, INFO ] Downloading image pexels-photo-134392.jpeg from https://dl.dropboxusercontent.com/s/zch88m6sb8a7bm1/pexels-photo-134392.jpeg
+[MainThread, 2020-04-17 09:21:13,316, INFO ] Thread-6 created
+[Thread-6, 2020-04-17 09:21:13,319, INFO ] START
+[Thread-6, 2020-04-17 09:21:13,320, INFO ] Downloading image pexels-photo-135130.jpeg from https://dl.dropboxusercontent.com/s/lsr6dxw5m2ep5qt/pexels-photo-135130.jpeg
+[MainThread, 2020-04-17 09:21:13,321, INFO ] Thread-7 created
+[Thread-7, 2020-04-17 09:21:13,324, INFO ] START
+[Thread-7, 2020-04-17 09:21:13,325, INFO ] Downloading image pexels-photo-167300.jpeg from https://dl.dropboxusercontent.com/s/6xinfm0lcnbirb9/pexels-photo-167300.jpeg
+[MainThread, 2020-04-17 09:21:13,327, INFO ] Thread-8 created
+[Thread-8, 2020-04-17 09:21:13,333, INFO ] START
+[Thread-8, 2020-04-17 09:21:13,341, INFO ] Downloading image pexels-photo-167921.jpeg from https://dl.dropboxusercontent.com/s/2dp2hli32h9p0y6/pexels-photo-167921.jpeg
+[MainThread, 2020-04-17 09:21:13,345, INFO ] Thread-9 created
+[Thread-9, 2020-04-17 09:21:13,348, INFO ] START
+[Thread-9, 2020-04-17 09:21:13,349, INFO ] Downloading image pexels-photo-173125.jpeg from https://dl.dropboxusercontent.com/s/fjb1m3grcrceqo2/pexels-photo-173125.jpeg
+[MainThread, 2020-04-17 09:21:13,349, INFO ] Thread-10 created
+[Thread-10, 2020-04-17 09:21:13,402, INFO ] START
+[Thread-10, 2020-04-17 09:21:13,417, INFO ] Downloading image pexels-photo-185934.jpeg from https://dl.dropboxusercontent.com/s/56u8p4oplagc4bp/pexels-photo-185934.jpeg
+[MainThread, 2020-04-17 09:21:13,405, INFO ] Thread-11 created
+[Thread-11, 2020-04-17 09:21:13,431, INFO ] START
+[Thread-11, 2020-04-17 09:21:13,438, INFO ] Downloading image pexels-photo-192454.jpeg from https://dl.dropboxusercontent.com/s/2s1x7wz4sdvxssr/pexels-photo-192454.jpeg
+[Thread-10, 2020-04-17 09:21:15,567, INFO ] Downloaded image pexels-photo-185934.jpeg
+[Thread-10, 2020-04-17 09:21:15,568, INFO ] START
+[Thread-10, 2020-04-17 09:21:15,569, INFO ] Downloading image pexels-photo-193038.jpeg from https://dl.dropboxusercontent.com/s/1gjphqnllzm10hh/pexels-photo-193038.jpeg
+[Thread-4, 2020-04-17 09:21:15,701, INFO ] Downloaded image pexels-photo-48603.jpeg
+[Thread-4, 2020-04-17 09:21:15,702, INFO ] START
+[Thread-4, 2020-04-17 09:21:15,703, INFO ] Downloading image pexels-photo-193043.jpeg from https://dl.dropboxusercontent.com/s/pcjz40c8pxpy057/pexels-photo-193043.jpeg
+[Thread-9, 2020-04-17 09:21:16,243, INFO ] Downloaded image pexels-photo-173125.jpeg
+[Thread-9, 2020-04-17 09:21:16,243, INFO ] START
+[Thread-9, 2020-04-17 09:21:16,244, INFO ] Downloading image pexels-photo-207962.jpeg from https://dl.dropboxusercontent.com/s/hokdfk7y8zmwe96/pexels-photo-207962.jpeg
+[Thread-11, 2020-04-17 09:21:16,345, INFO ] Downloaded image pexels-photo-192454.jpeg
+[Thread-11, 2020-04-17 09:21:16,345, INFO ] START
+[Thread-11, 2020-04-17 09:21:16,346, INFO ] Downloading image pexels-photo-247917.jpeg from https://dl.dropboxusercontent.com/s/k2tk2co7r18juy7/pexels-photo-247917.jpeg
+[Thread-7, 2020-04-17 09:21:16,401, INFO ] Downloaded image pexels-photo-167300.jpeg
+[Thread-7, 2020-04-17 09:21:16,401, INFO ] START
+[Thread-7, 2020-04-17 09:21:16,403, INFO ] Downloading image pexels-photo-247932.jpeg from https://dl.dropboxusercontent.com/s/m4xjekvqk4rksbx/pexels-photo-247932.jpeg
+[Thread-8, 2020-04-17 09:21:16,497, INFO ] Downloaded image pexels-photo-167921.jpeg
+[Thread-8, 2020-04-17 09:21:16,497, INFO ] START
+[Thread-8, 2020-04-17 09:21:16,498, INFO ] Downloading image pexels-photo-265186.jpeg from https://dl.dropboxusercontent.com/s/znmswtwhcdbpc10/pexels-photo-265186.jpeg
+[Thread-5, 2020-04-17 09:21:16,545, INFO ] Downloaded image pexels-photo-134392.jpeg
+[Thread-5, 2020-04-17 09:21:16,547, INFO ] START
+[Thread-5, 2020-04-17 09:21:16,547, INFO ] Downloading image pexels-photo-302899.jpeg from https://dl.dropboxusercontent.com/s/jgb6n4esquhh4gu/pexels-photo-302899.jpeg
+[Thread-6, 2020-04-17 09:21:16,707, INFO ] Downloaded image pexels-photo-135130.jpeg
+[Thread-6, 2020-04-17 09:21:16,707, INFO ] START
+[Thread-6, 2020-04-17 09:21:16,708, INFO ] Downloading image pexels-photo-317156.jpeg from https://dl.dropboxusercontent.com/s/rjuggi2ubc1b3bk/pexels-photo-317156.jpeg
+[Thread-10, 2020-04-17 09:21:18,267, INFO ] Downloaded image pexels-photo-193038.jpeg
+[Thread-10, 2020-04-17 09:21:18,268, INFO ] START
+[Thread-10, 2020-04-17 09:21:18,268, INFO ] Downloading image pexels-photo-317383.jpeg from https://dl.dropboxusercontent.com/s/cpaog2nwplilrz9/pexels-photo-317383.jpeg
+[Thread-4, 2020-04-17 09:21:18,687, INFO ] Downloaded image pexels-photo-193043.jpeg
+[Thread-4, 2020-04-17 09:21:18,688, INFO ] START
+[Thread-4, 2020-04-17 09:21:18,689, INFO ] Downloading image pexels-photo-320007.jpeg from https://dl.dropboxusercontent.com/s/16x2b6ruk18gji5/pexels-photo-320007.jpeg
+[Thread-9, 2020-04-17 09:21:18,826, INFO ] Downloaded image pexels-photo-207962.jpeg
+[Thread-9, 2020-04-17 09:21:18,827, INFO ] START
+[Thread-9, 2020-04-17 09:21:18,827, INFO ] Downloading image pexels-photo-322207.jpeg from https://dl.dropboxusercontent.com/s/xqzqzjkcwl52en0/pexels-photo-322207.jpeg
+[Thread-7, 2020-04-17 09:21:19,525, INFO ] Downloaded image pexels-photo-247932.jpeg
+[Thread-7, 2020-04-17 09:21:19,526, INFO ] START
+[Thread-7, 2020-04-17 09:21:19,527, INFO ] Downloading image pexels-photo-323503.jpeg from https://dl.dropboxusercontent.com/s/frclthpd7t8exma/pexels-photo-323503.jpeg
+[Thread-5, 2020-04-17 09:21:19,544, INFO ] Downloaded image pexels-photo-302899.jpeg
+[Thread-5, 2020-04-17 09:21:19,545, INFO ] START
+[Thread-5, 2020-04-17 09:21:19,546, INFO ] Downloading image pexels-photo-324030.jpeg from https://dl.dropboxusercontent.com/s/7ixez07vnc3jeyg/pexels-photo-324030.jpeg
+[Thread-8, 2020-04-17 09:21:19,552, INFO ] Downloaded image pexels-photo-265186.jpeg
+[Thread-8, 2020-04-17 09:21:19,557, INFO ] START
+[Thread-8, 2020-04-17 09:21:19,558, INFO ] Downloading image pexels-photo-324655.jpeg from https://dl.dropboxusercontent.com/s/1xlgrfy861nyhox/pexels-photo-324655.jpeg
+[Thread-6, 2020-04-17 09:21:19,584, INFO ] Downloaded image pexels-photo-317156.jpeg
+[Thread-6, 2020-04-17 09:21:19,585, INFO ] START
+[Thread-6, 2020-04-17 09:21:19,585, INFO ] Downloading image pexels-photo-324658.jpeg from https://dl.dropboxusercontent.com/s/v1b03d940lop05d/pexels-photo-324658.jpeg
+[Thread-10, 2020-04-17 09:21:20,919, INFO ] Downloaded image pexels-photo-317383.jpeg
+[Thread-10, 2020-04-17 09:21:20,920, INFO ] START
+[Thread-10, 2020-04-17 09:21:20,922, INFO ] Downloading image pexels-photo-325520.jpeg from https://dl.dropboxusercontent.com/s/ehrm5clkucbhvi4/pexels-photo-325520.jpeg
+[Thread-4, 2020-04-17 09:21:21,778, INFO ] Downloaded image pexels-photo-320007.jpeg
+[Thread-4, 2020-04-17 09:21:21,778, INFO ] START
+[Thread-4, 2020-04-17 09:21:21,779, INFO ] Downloading image pexels-photo-333529.jpeg from https://dl.dropboxusercontent.com/s/l7ga4ea98hfl49b/pexels-photo-333529.jpeg
+[Thread-5, 2020-04-17 09:21:21,797, INFO ] Downloaded image pexels-photo-324030.jpeg
+[Thread-5, 2020-04-17 09:21:21,798, INFO ] START
+[Thread-5, 2020-04-17 09:21:21,799, INFO ] Downloading image pexels-photo-341520.jpeg from https://dl.dropboxusercontent.com/s/rleff9tx000k19j/pexels-photo-341520.jpeg
+[Thread-8, 2020-04-17 09:21:21,907, INFO ] Downloaded image pexels-photo-324655.jpeg
+[Thread-6, 2020-04-17 09:21:22,125, INFO ] Downloaded image pexels-photo-324658.jpeg
+[Thread-11, 2020-04-17 09:21:22,418, INFO ] Downloaded image pexels-photo-247917.jpeg
+[Thread-9, 2020-04-17 09:21:23,099, INFO ] Downloaded image pexels-photo-322207.jpeg
+[Thread-7, 2020-04-17 09:21:23,137, INFO ] Downloaded image pexels-photo-323503.jpeg
+[Thread-10, 2020-04-17 09:21:23,361, INFO ] Downloaded image pexels-photo-325520.jpeg
+[Thread-4, 2020-04-17 09:21:23,619, INFO ] Downloaded image pexels-photo-333529.jpeg
+[Thread-5, 2020-04-17 09:21:23,970, INFO ] Downloaded image pexels-photo-341520.jpeg
+[MainThread, 2020-04-17 09:21:23,979, INFO ] resizing pexels-photo-185934.jpeg
+[MainThread, 2020-04-17 09:21:23,989, INFO ] resizing pexels-photo-173125.jpeg
+[MainThread, 2020-04-17 09:21:23,989, INFO ] resizing pexels-photo-167300.jpeg
+[MainThread, 2020-04-17 09:21:23,997, INFO ] resizing pexels-photo-134392.jpeg
+[MainThread, 2020-04-17 09:21:24,429, INFO ] done resizing pexels-photo-185934.jpeg
+[MainThread, 2020-04-17 09:21:24,442, INFO ] resizing pexels-photo-48603.jpeg
+[MainThread, 2020-04-17 09:21:24,862, INFO ] done resizing pexels-photo-173125.jpeg
+[MainThread, 2020-04-17 09:21:24,863, INFO ] resizing pexels-photo-192454.jpeg
+[MainThread, 2020-04-17 09:21:25,280, INFO ] done resizing pexels-photo-48603.jpeg
+[MainThread, 2020-04-17 09:21:25,282, INFO ] resizing pexels-photo-193038.jpeg
+[MainThread, 2020-04-17 09:21:25,532, INFO ] done resizing pexels-photo-134392.jpeg
+[MainThread, 2020-04-17 09:21:25,532, INFO ] resizing pexels-photo-135130.jpeg
+[MainThread, 2020-04-17 09:21:25,729, INFO ] done resizing pexels-photo-167300.jpeg
+[MainThread, 2020-04-17 09:21:25,732, INFO ] resizing pexels-photo-167921.jpeg
+[MainThread, 2020-04-17 09:21:26,140, INFO ] done resizing pexels-photo-192454.jpeg
+[MainThread, 2020-04-17 09:21:26,142, INFO ] resizing pexels-photo-207962.jpeg
+[MainThread, 2020-04-17 09:21:26,241, INFO ] done resizing pexels-photo-207962.jpeg
+[MainThread, 2020-04-17 09:21:26,241, INFO ] resizing pexels-photo-247932.jpeg
+[MainThread, 2020-04-17 09:21:26,275, INFO ] done resizing pexels-photo-135130.jpeg
+[MainThread, 2020-04-17 09:21:26,276, INFO ] resizing pexels-photo-302899.jpeg
+[MainThread, 2020-04-17 09:21:26,516, INFO ] done resizing pexels-photo-193038.jpeg
+[MainThread, 2020-04-17 09:21:26,516, INFO ] resizing pexels-photo-193043.jpeg
+[MainThread, 2020-04-17 09:21:26,759, INFO ] done resizing pexels-photo-167921.jpeg
+[MainThread, 2020-04-17 09:21:26,769, INFO ] resizing pexels-photo-317156.jpeg
+[MainThread, 2020-04-17 09:21:26,937, INFO ] done resizing pexels-photo-247932.jpeg
+[MainThread, 2020-04-17 09:21:26,938, INFO ] resizing pexels-photo-320007.jpeg
+[MainThread, 2020-04-17 09:21:27,080, INFO ] done resizing pexels-photo-193043.jpeg
+[MainThread, 2020-04-17 09:21:27,080, INFO ] resizing pexels-photo-324655.jpeg
+[MainThread, 2020-04-17 09:21:27,126, INFO ] done resizing pexels-photo-302899.jpeg
+[MainThread, 2020-04-17 09:21:27,127, INFO ] resizing pexels-photo-265186.jpeg
+[MainThread, 2020-04-17 09:21:27,282, INFO ] done resizing pexels-photo-320007.jpeg
+[MainThread, 2020-04-17 09:21:27,283, INFO ] resizing pexels-photo-324030.jpeg
+[MainThread, 2020-04-17 09:21:27,407, INFO ] done resizing pexels-photo-324655.jpeg
+[MainThread, 2020-04-17 09:21:27,407, INFO ] resizing pexels-photo-324658.jpeg
+[MainThread, 2020-04-17 09:21:27,481, INFO ] done resizing pexels-photo-317156.jpeg
+[MainThread, 2020-04-17 09:21:27,481, INFO ] resizing pexels-photo-317383.jpeg
+[MainThread, 2020-04-17 09:21:27,679, INFO ] done resizing pexels-photo-265186.jpeg
+[MainThread, 2020-04-17 09:21:27,679, INFO ] resizing pexels-photo-247917.jpeg
+[MainThread, 2020-04-17 09:21:27,944, INFO ] done resizing pexels-photo-324030.jpeg
+[MainThread, 2020-04-17 09:21:27,945, INFO ] resizing pexels-photo-323503.jpeg
+[MainThread, 2020-04-17 09:21:28,099, INFO ] done resizing pexels-photo-247917.jpeg
+[MainThread, 2020-04-17 09:21:28,100, INFO ] resizing pexels-photo-322207.jpeg
+[MainThread, 2020-04-17 09:21:28,104, INFO ] done resizing pexels-photo-324658.jpeg
+[MainThread, 2020-04-17 09:21:28,105, INFO ] resizing pexels-photo-333529.jpeg
+[MainThread, 2020-04-17 09:21:28,439, INFO ] done resizing pexels-photo-323503.jpeg
+[MainThread, 2020-04-17 09:21:28,440, INFO ] resizing pexels-photo-325520.jpeg
+[MainThread, 2020-04-17 09:21:28,445, INFO ] done resizing pexels-photo-333529.jpeg
+[MainThread, 2020-04-17 09:21:28,446, INFO ] resizing pexels-photo-341520.jpeg
+[MainThread, 2020-04-17 09:21:28,465, INFO ] done resizing pexels-photo-317383.jpeg
+[MainThread, 2020-04-17 09:21:28,878, INFO ] done resizing pexels-photo-322207.jpeg
+[MainThread, 2020-04-17 09:21:29,008, INFO ] done resizing pexels-photo-341520.jpeg
+[MainThread, 2020-04-17 09:21:29,032, INFO ] done resizing pexels-photo-325520.jpeg
+[MainThread, 2020-04-17 09:21:29,049, INFO ] Created 26 in 5.071011399999406
+[MainThread, 2020-04-17 09:21:29,049, INFO ] END make_thumbnails in 15.766354100000171 seconds
