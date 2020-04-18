@@ -1,4 +1,4 @@
-from process_pool_threading_thumbnail_maker import ThumbnailMakerService
+from process_queue_threading_thumbnail_maker import ThumbnailMakerService
 
 IMG_URLS = \
     ['https://dl.dropboxusercontent.com/s/2fu69d8lfesbhru/pexels-photo-48603.jpeg',
