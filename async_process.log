@@ -1,0 +1,7 @@
+INFO:root:START make_thumbnails
+INFO:root:Begining Image Downloads
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:Downloading 26 images took 28.290157499999623 seconds
+INFO:root:Time for resizing = 0.062089600000035716
+INFO:root:Download size = 5627593 and resize images size = 149778
+INFO:root:END make_thumbnails in 28.356648799999675 seconds
